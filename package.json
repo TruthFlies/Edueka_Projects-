@@ -1,0 +1,26 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Quote App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruthFlies/Edueka_Projects-.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Sagar Ringe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruthFlies/Edueka_Projects-/issues"
+  },
+  "homepage": "https://github.com/TruthFlies/Edueka_Projects-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
